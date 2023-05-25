@@ -18,3 +18,4 @@ import './containers/FlexContainer';
 import './containers/GridContainer';
 import './containers/SectionOneColumn';
 import './containers/SectionTwoColumns';
+import './WeatherCard';
